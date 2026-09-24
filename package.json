@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-enforcement-actions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "US federal enforcement actions MCP. Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-6a555ef69f44fe70f6919fb8518dc11a5c24c6af0063c4c8acbae4f2c6025bcb",
+    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
   }
 }
