@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c6e9711d72828246bcb7bf7d16846f5a52a74f5aeac863a8ecbff708842beeb6",
-    "sourceCommit": "712a5e0171ea24483214329d0cd7efdfd9b80352"
+    "sourceHash": "v1-99813da74114728f96ae52f8086c00c782d5c634cba66a9bfef9978638def884",
+    "sourceCommit": "722087a9bda73f85942e8f6bbfd598544cb0d490"
   }
 }
