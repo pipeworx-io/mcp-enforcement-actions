@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-enforcement-actions",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "US federal enforcement actions MCP. Keyless.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "enforcement-actions",
     "gatewaySlug": "enforcement-actions",
-    "sourceHash": "v1-0021ff2beeae39a6f0111c019ad193e8dad16b700cd1a1357669cebc246f31cc",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-8cbe16d7a698cd112fd36254e2ce33e6d4e0122193ad5d06347efa8596b0589e",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
